@@ -1,13 +1,13 @@
 // SortedDriver.cpp
 
-// tom bailey   1445  25 mar 2014
+// Andey Tuttle  November 12, 2018
 // Construct sorted sequences and call functions that
 //   process the sorted sequences.
 
 
 #include "RandomUtilities.h"
 #include "ContainerPrinting.h"
-#include "unixTimer.h"//CHANGE: this to unixTimer.h if on mac/linux
+#include "winTimer.h"//CHANGE: this to unixTimer.h if on mac/linux
 #include <list>
 #include <iostream>
 #include <vector>
